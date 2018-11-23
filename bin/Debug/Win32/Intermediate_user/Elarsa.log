@@ -1,0 +1,9 @@
+﻿  Main_src.cpp
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(22): warning C4101: 'count': unreferenced local variable
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(37): warning C4101: 'DATING': unreferenced local variable
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(48): warning C4101: 'REP': unreferenced local variable
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(37): warning C4101: 'SEX_ANS': unreferenced local variable
+c:\dev\a.i project\elarsa\elarsa\core_src\main_src.cpp(37): warning C4101: 'FEMALE': unreferenced local variable
+  Elarsa.vcxproj -> C:\dev\A.i project\Elarsa\\bin\Debug\Win32\Elarsa.exe

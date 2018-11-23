@@ -1,0 +1,4 @@
+﻿  IGNORE CASE.cpp
+c:\dev\a.i project\elarsa\case_sensitivity\src\ignore case.cpp(19): warning C4018: '<=': signed/unsigned mismatch
+     Creating library C:\dev\A.i project\Elarsa\\bin\Debug\Win32\Case_Sensitivity.lib and object C:\dev\A.i project\Elarsa\\bin\Debug\Win32\Case_Sensitivity.exp
+  Case_Sensitivity.vcxproj -> C:\dev\A.i project\Elarsa\\bin\Debug\Win32\Case_Sensitivity.dll
